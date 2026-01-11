@@ -56,10 +56,4 @@
 
 <br>
 <br>
-
-<h3>📊 GitHub Analytics</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=yeonje14&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="150" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonje14&layout=compact&theme=radical&hide_border=true&bg_color=00000000" height="150" alt="langs" />
-
 </div>
