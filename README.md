@@ -2,8 +2,10 @@
 
 # 👋 Hi there, I'm Yeonje Lee!
 
-> **끊임없이 성장하며 기록하는 개발자, 이연제입니다.**
-> <br><sub>Constantly growing and documenting developer, Yeonje Lee.</sub>
+<h3>🔭 Aspiring Data Engineer & Data Analyst</h3>
+
+> **데이터의 가치를 탐구하고 기록하는 개발자, 이연제입니다.**
+> <br><sub>Constantly growing and documenting to become a Data Specialist.</sub>
 
 <br>
 
@@ -34,7 +36,7 @@
         <li><b>🌏 2025 International Student Council</b>
           <br>&nbsp;&nbsp;<sub>2025 국제학생회 활동 및 글로벌 소통</sub>
         </li>
-        <li><b>🎖️2023.7~2024.3 R.O.K. Army (Professional NCO)</b>
+        <li><b>🎖️ 2023.7~2024.3 R.O.K. Army (Professional NCO)</b>
           <br>&nbsp;&nbsp;<sub>2023.7~2024.3 육군 전문하사 전역 (책임감, 조직운영)</sub>
         </li>
       </ul>
@@ -54,5 +56,10 @@
 
 <br>
 <br>
+
+<h3>📊 GitHub Analytics</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=yeonje14&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="150" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonje14&layout=compact&theme=radical&hide_border=true&bg_color=00000000" height="150" alt="langs" />
 
 </div>
