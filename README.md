@@ -31,11 +31,11 @@
         <li><b>👑 2025 President of CSE Student Council</b>
           <br>&nbsp;&nbsp;<sub>2025 창원대 컴퓨터공학과 학생회장 역임</sub>
         </li>
-        <li><b>🌏 International Student Council</b>
-          <br>&nbsp;&nbsp;<sub>국제학생회 활동 및 글로벌 소통</sub>
+        <li><b>🌏 2025 International Student Council</b>
+          <br>&nbsp;&nbsp;<sub>2025 국제학생회 활동 및 글로벌 소통</sub>
         </li>
-        <li><b>🎖️ R.O.K. Army (Professional NCO)</b>
-          <br>&nbsp;&nbsp;<sub>육군 전문하사 전역 (책임감, 조직운영)</sub>
+        <li><b>🎖️2023.7~2024.3 R.O.K. Army (Professional NCO)</b>
+          <br>&nbsp;&nbsp;<sub>2023.7~2024.3육군 전문하사 전역 (책임감, 조직운영)</sub>
         </li>
       </ul>
     </td>
