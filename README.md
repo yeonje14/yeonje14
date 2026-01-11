@@ -28,8 +28,8 @@
     <td align="left" width="400">
       <h3>🏆 Leadership & Experience</h3>
       <ul>
-        <li><b>👑 President of CSE Student Council</b>
-          <br>&nbsp;&nbsp;<sub>창원대 컴퓨터공학과 학생회장 역임</sub>
+        <li><b>👑 2025 President of CSE Student Council</b>
+          <br>&nbsp;&nbsp;<sub>2025 창원대 컴퓨터공학과 학생회장 역임</sub>
         </li>
         <li><b>🌏 International Student Council</b>
           <br>&nbsp;&nbsp;<sub>국제학생회 활동 및 글로벌 소통</sub>
@@ -54,10 +54,5 @@
 
 <br>
 <br>
-
-<h3>📊 GitHub Analytics</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=yeonje14&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="150" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonje14&layout=compact&theme=radical&hide_border=true&bg_color=00000000" height="150" alt="langs" />
 
 </div>
