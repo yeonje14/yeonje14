@@ -4,8 +4,9 @@
 
 <h3>🔭 Aspiring Data Engineer & Data Analyst</h3>
 
-> **데이터의 가치를 탐구하고 기록하는 개발자, 이연제입니다.**
-> <br><sub>Constantly growing and documenting to become a Data Specialist.</sub>
+> **데이터의 가치를 탐구하고 기록하는 개발자, 이연제입니다.**  
+> <sub>Exploring and documenting the value of data to grow as a Data Specialist.</sub>  
+> <sub>データの価値を探求し、記録し続けるデータ志向の開発者です。</sub>
 
 <br>
 
@@ -13,31 +14,41 @@
   <img src="https://img.shields.io/badge/Medium-Tech_Blog-black?style=flat-square&logo=medium&logoColor=white"/>
 </a>
 
-<br>
-<br>
+<br><br>
 
 <table align="center">
   <tr>
     <td align="left" width="400">
       <h3>🧑‍💻 Profile</h3>
       <ul>
-        <li><b>NAME:</b> Yeonje Lee (이연제) | 🎂 2001</li>
-        <li><b>UNIV:</b> <b>Changwon Nat'l Univ.</b> (CWNU)
-          <br>&nbsp;&nbsp;Current Student, Computer Engineering '21
+        <li><b>NAME:</b> Yeonje Lee (이연제)</li>
+        <li><b>BIRTH:</b> 2001</li>
+        <li>
+          <b>UNIV:</b> <b>Changwon Nat'l Univ.</b> (CWNU)  
+          <br>&nbsp;&nbsp;Computer Engineering (2021~)  
+          <br>&nbsp;&nbsp;<sub>창원대학교 컴퓨터공학과 재학</sub>  
+          <br>&nbsp;&nbsp;<sub>昌原大学 コンピュータ工学専攻 在学</sub>
         </li>
       </ul>
     </td>
     <td align="left" width="400">
       <h3>🏆 Leadership & Experience</h3>
       <ul>
-        <li><b>👑 2025 President of CSE Student Council</b>
-          <br>&nbsp;&nbsp;<sub>2025 창원대 컴퓨터공학과 학생회장 역임</sub>
+        <li>
+          <b>👑 2025 President of CSE Student Council</b>  
+          <br>&nbsp;&nbsp;<sub>2025 창원대 컴퓨터공학과 학생회장</sub>  
+          <br>&nbsp;&nbsp;<sub>2025年 コンピュータ工学科 学生会長</sub>
         </li>
-        <li><b>🌏 2025 International Student Council</b>
-          <br>&nbsp;&nbsp;<sub>2025 국제학생회 활동 및 글로벌 소통</sub>
+        <li>
+          <b>🌏 International Student Council</b>  
+          <br>&nbsp;&nbsp;<sub>국제학생회 활동 및 글로벌 소통</sub>  
+          <br>&nbsp;&nbsp;<sub>国際学生会での活動・国際交流</sub>
         </li>
-        <li><b>🎖️ 2023.7~2024.3 R.O.K. Army (Professional NCO)</b>
-          <br>&nbsp;&nbsp;<sub>2023.7~2024.3 육군 전문하사 전역 (책임감, 조직운영)</sub>
+        <li>
+          <b>🎖️ R.O.K. Army (Professional NCO)</b>  
+          <br>&nbsp;&nbsp;2023.07 ~ 2024.03  
+          <br>&nbsp;&nbsp;<sub>육군 전문하사 복무 (조직 운영, 책임감)</sub>  
+          <br>&nbsp;&nbsp;<sub>韓国陸軍 専門下士官（組織運営・責任感）</sub>
         </li>
       </ul>
     </td>
@@ -48,15 +59,13 @@
 
 <h3>🚀 Currently Working On</h3>
 
-| Project & Challenge | Type | Status |
-| :--- | :---: | :---: |
-| **[🧩 Daily Algorithm Question](https://github.com/yeonje14/daily-algorithm-question)**<br>매일 꾸준히 풀고 기록하는 알고리즘 문제 풀이<br><sub>Solving and recording algorithm problems every day</sub> | <img src="https://img.shields.io/badge/Algorithm-Problem_Solving-orange?style=flat-square"/> | ![Active](https://img.shields.io/badge/-Ing-success?style=flat-square) |
-| **[📚 Growth Library](https://github.com/yeonje14/Growth-Library)**<br>개발 지식과 배움을 쌓아가는 아카이브<br><sub>An archive of development knowledge and learning journey</sub> | <img src="https://img.shields.io/badge/Wiki-Knowledge-blue?style=flat-square"/> | ![Accumulating](https://img.shields.io/badge/-Updating-informational?style=flat-square) |
-| **[📑 Monthly Tech Paper Deep Dive](https://github.com/yeonje14/Monthly-Tech-Paper-Deep-Dive)**<br>매월 기술 논문을 깊이 있게 분석하고 정리<br><sub>Deep dive analysis and review of technical papers</sub> | <img src="https://img.shields.io/badge/Research-Tech_Paper-black?style=flat-square"/> | ![Monthly](https://img.shields.io/badge/-Monthly-blueviolet?style=flat-square) |
+| Project | Description |
+| :--- | :--- |
+| **🧩 Daily Algorithm Question**<br>[GitHub](https://github.com/yeonje14/daily-algorithm-question) | <b>KR</b>: 매일 알고리즘 문제를 풀고 기록<br><b>EN</b>: Solving and documenting algorithm problems daily<br><b>JP</b>: 毎日アルゴリズム問題を解き、記録 |
+| **📚 Growth Library**<br>[GitHub](https://github.com/yeonje14/Growth-Library) | <b>KR</b>: 개발 지식 아카이브<br><b>EN</b>: Knowledge archive for continuous growth<br><b>JP</b>: 学習と成長のための技術アーカイブ |
+| **📑 Monthly Tech Paper Deep Dive**<br>[GitHub](https://github.com/yeonje14/Monthly-Tech-Paper-Deep-Dive) | <b>KR</b>: 기술 논문 월간 분석<br><b>EN</b>: Monthly deep dive into tech papers<br><b>JP</b>: 技術論文の月次ディープダイブ |
 
-<br>
-<br>
-<br>
+<br><br>
 
 <h3>🧪 Side Projects</h3>
 
@@ -66,29 +75,36 @@
       <h4>📍 GenZ Seoul–Tokyo Trend Map</h4>
       <ul>
         <li>
-          <b>설명:</b> 20대 대학생 설문 데이터와 Google 검색량을 결합하여<br>
-          <b>심리적 거리(Psychological Distance)</b> 기반의 서울·도쿄 인기 스팟을 시각화한 인터랙티브 웹 프로젝트
+          <b>Description</b><br>
+          <b>KR:</b> 20대 대학생 설문 데이터와 Google 검색량을 결합하여  
+          심리적 거리(Psychological Distance) 기반으로  
+          서울·도쿄 인기 스팟을 시각화한 인터랙티브 웹 프로젝트  
+          <br><br>
+          <b>EN:</b> An interactive web project visualizing popular spots in Seoul and Tokyo  
+          based on <i>psychological distance</i> using Gen Z survey data and Google search trends.  
+          <br><br>
+          <b>JP:</b> 20代大学生のアンケートデータとGoogle検索量を用い、  
+          心理的距離に基づいてソウル・東京の人気スポットを可視化した  
+          インタラクティブWebプロジェクト
         </li>
+
         <li>
-          <b>핵심 포인트:</b>
+          <b>Key Points</b>
           <ul>
-            <li>KNN의 거리 개념을 응용한 트렌드 분석</li>
-            <li>설문 데이터 전처리 + 외부 트렌드 데이터 결합</li>
-            <li>Plotly 기반 인터랙티브 시각화</li>
-            <li>GitHub Pages를 통한 웹 배포</li>
+            <li>KNNの距離概念を応用したトレンド分析</li>
+            <li>Survey preprocessing + External trend data integration</li>
+            <li>Plotly-based interactive visualization</li>
+            <li>Deployed via GitHub Pages</li>
           </ul>
         </li>
+
         <li>
-          <b>기술 스택:</b> Python, Pandas, NumPy, Plotly, GitHub Pages
+          <b>Tech Stack:</b> Python, Pandas, NumPy, Plotly, GitHub Pages
         </li>
+
         <li>
-          🔗 <a href="https://github.com/yeonje14/GenZ-Seoul-Tokyo-Trend-Map">
-            GitHub Repository
-          </a>
-          &nbsp;|&nbsp;
-          🌐 <a href="https://yeonje14.github.io/GenZ-Seoul-Tokyo-Trend-Map/">
-            Live Demo
-          </a>
+          🔗 <a href="https://github.com/yeonje14/GenZ-Seoul-Tokyo-Trend-Map">GitHub Repository</a>  
+          🌐 <a href="https://yeonje14.github.io/GenZ-Seoul-Tokyo-Trend-Map/">Live Demo</a>
         </li>
       </ul>
     </td>
@@ -96,4 +112,5 @@
 </table>
 
 <br>
+
 </div>
