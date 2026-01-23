@@ -56,4 +56,44 @@
 
 <br>
 <br>
+<br>
+
+<h3>🧪 Side Projects</h3>
+
+<table align="center">
+  <tr>
+    <td align="left" width="800">
+      <h4>📍 GenZ Seoul–Tokyo Trend Map</h4>
+      <ul>
+        <li>
+          <b>설명:</b> 20대 대학생 설문 데이터와 Google 검색량을 결합하여<br>
+          <b>심리적 거리(Psychological Distance)</b> 기반의 서울·도쿄 인기 스팟을 시각화한 인터랙티브 웹 프로젝트
+        </li>
+        <li>
+          <b>핵심 포인트:</b>
+          <ul>
+            <li>KNN의 거리 개념을 응용한 트렌드 분석</li>
+            <li>설문 데이터 전처리 + 외부 트렌드 데이터 결합</li>
+            <li>Plotly 기반 인터랙티브 시각화</li>
+            <li>GitHub Pages를 통한 웹 배포</li>
+          </ul>
+        </li>
+        <li>
+          <b>기술 스택:</b> Python, Pandas, NumPy, Plotly, GitHub Pages
+        </li>
+        <li>
+          🔗 <a href="https://github.com/yeonje14/GenZ-Seoul-Tokyo-Trend-Map">
+            GitHub Repository
+          </a>
+          &nbsp;|&nbsp;
+          🌐 <a href="https://yeonje14.github.io/GenZ-Seoul-Tokyo-Trend-Map/">
+            Live Demo
+          </a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
 </div>
