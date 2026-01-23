@@ -66,51 +66,23 @@
 | **📑 Monthly Tech Paper Deep Dive**<br>[GitHub](https://github.com/yeonje14/Monthly-Tech-Paper-Deep-Dive) | <b>KR</b>: 기술 논문 월간 분석<br><b>EN</b>: Monthly deep dive into tech papers<br><b>JP</b>: 技術論文の月次ディープダイブ |
 
 <br><br>
+<br>
 
 <h3>🧪 Side Projects</h3>
 
-<table align="center">
-  <tr>
-    <td align="left" width="800">
-      <h4>📍 GenZ Seoul–Tokyo Trend Map</h4>
-      <ul>
-        <li>
-          <b>Description</b><br>
-          <b>KR:</b> 20대 대학생 설문 데이터와 Google 검색량을 결합하여  
-          심리적 거리(Psychological Distance) 기반으로  
-          서울·도쿄 인기 스팟을 시각화한 인터랙티브 웹 프로젝트  
-          <br><br>
-          <b>EN:</b> An interactive web project visualizing popular spots in Seoul and Tokyo  
-          based on <i>psychological distance</i> using Gen Z survey data and Google search trends.  
-          <br><br>
-          <b>JP:</b> 20代大学生のアンケートデータとGoogle検索量を用い、  
-          心理的距離に基づいてソウル・東京の人気スポットを可視化した  
-          インタラクティブWebプロジェクト
-        </li>
-
-        <li>
-          <b>Key Points</b>
-          <ul>
-            <li>KNNの距離概念を応用したトレンド分析</li>
-            <li>Survey preprocessing + External trend data integration</li>
-            <li>Plotly-based interactive visualization</li>
-            <li>Deployed via GitHub Pages</li>
-          </ul>
-        </li>
-
-        <li>
-          <b>Tech Stack:</b> Python, Pandas, NumPy, Plotly, GitHub Pages
-        </li>
-
-        <li>
-          🔗 <a href="https://github.com/yeonje14/GenZ-Seoul-Tokyo-Trend-Map">GitHub Repository</a>  
-          🌐 <a href="https://yeonje14.github.io/GenZ-Seoul-Tokyo-Trend-Map/">Live Demo</a>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<ul align="left">
+  <li>
+    <b>📍 GenZ Seoul–Tokyo Trend Map</b><br>
+    <sub>
+      KR: 20대 대학생 설문 데이터와 검색 트렌드를 활용한 서울·도쿄 심리적 인기 스팟 시각화 프로젝트<br>
+      EN: An interactive trend map visualizing Gen Z preferences in Seoul and Tokyo using survey and search data<br>
+      JP: 20代大学生のアンケートと検索トレンドを用いたソウル・東京の人気スポット可視化プロジェクト
+    </sub><br>
+    🔗 <a href="https://github.com/yeonje14/GenZ-Seoul-Tokyo-Trend-Map">GitHub</a>
+    &nbsp;|&nbsp;
+    🌐 <a href="https://yeonje14.github.io/GenZ-Seoul-Tokyo-Trend-Map/">Live Demo</a>
+  </li>
+</ul>
 
 <br>
-
 </div>
