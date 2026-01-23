@@ -67,22 +67,30 @@
 
 <br><br>
 <br>
+<br>
 
 <h3>🧪 Side Projects</h3>
 
-<ul align="left">
-  <li>
-    <b>📍 GenZ Seoul–Tokyo Trend Map</b><br>
-    <sub>
-      KR: 20대 대학생 설문 데이터와 검색 트렌드를 활용한 서울·도쿄 심리적 인기 스팟 시각화 프로젝트<br>
-      EN: An interactive trend map visualizing Gen Z preferences in Seoul and Tokyo using survey and search data<br>
-      JP: 20代大学生のアンケートと検索トレンドを用いたソウル・東京の人気スポット可視化プロジェクト
-    </sub><br>
-    🔗 <a href="https://github.com/yeonje14/GenZ-Seoul-Tokyo-Trend-Map">GitHub</a>
-    &nbsp;|&nbsp;
-    🌐 <a href="https://yeonje14.github.io/GenZ-Seoul-Tokyo-Trend-Map/">Live Demo</a>
-  </li>
-</ul>
+<table align="center">
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+    <th align="center">Link</th>
+  </tr>
+  <tr>
+    <td><b>📍 GenZ Seoul–Tokyo Trend Map</b></td>
+    <td>
+      <sub>
+        KR: 20대 대학생 설문 + 검색 트렌드를 활용한 서울·도쿄 심리적 인기 스팟 시각화<br>
+        EN: Interactive trend map of Gen Z preferences in Seoul & Tokyo using survey and search data<br>
+        JP: 20代大学生のアンケートと検索トレンドを用いた心理的距離ベースのトレンドマップ
+      </sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yeonje14/GenZ-Seoul-Tokyo-Trend-Map">GitHub</a><br>
+      <a href="https://yeonje14.github.io/GenZ-Seoul-Tokyo-Trend-Map/">Demo</a>
+    </td>
+  </tr>
+</table>
 
 <br>
-</div>
