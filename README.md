@@ -18,38 +18,31 @@
 
 <table align="center">
   <tr>
-    <td align="left" width="400">
-      <h3>🧑‍💻 Profile</h3>
+    <td align="center" width="300">
+            <img src="image_2.png" width="250" alt="Yeonje Lee Profile"/>
+    </td>
+    <td align="left" width="500">
+      <h3>🧑‍💻 Profile & Experience</h3>
       <ul>
         <li><b>NAME:</b> Yeonje Lee (이연제)</li>
         <li><b>BIRTH:</b> 2001</li>
         <li>
           <b>UNIV:</b> <b>Changwon Nat'l Univ.</b> (CWNU)  
           <br>&nbsp;&nbsp;Computer Engineering (2021~)  
-          <br>&nbsp;&nbsp;<sub>창원대학교 컴퓨터공학과 재학</sub>  
-          <br>&nbsp;&nbsp;<sub>昌原大学 コンピュータ工学専攻 在学</sub>
         </li>
-      </ul>
-    </td>
-    <td align="left" width="400">
-      <h3>🏆 Leadership & Experience</h3>
-      <ul>
-        <li>
-          <b>👑 2025 President of CSE Student Council</b>  
-          <br>&nbsp;&nbsp;<sub>2025 창원대 컴퓨터공학과 학생회장</sub>  
-          <br>&nbsp;&nbsp;<sub>2025年 コンピュータ工学科 学生会長</sub>
-        </li>
-        <li>
-          <b>🌏 International Student Council</b>  
-          <br>&nbsp;&nbsp;<sub>국제학생회 활동 및 글로벌 소통</sub>  
-          <br>&nbsp;&nbsp;<sub>国際学生会での活動・国際交流</sub>
-        </li>
-        <li>
-          <b>🎖️ R.O.K. Army (Professional NCO)</b>  
-          <br>&nbsp;&nbsp;2023.07 ~ 2024.03  
-          <br>&nbsp;&nbsp;<sub>육군 전문하사 복무 (조직 운영, 책임감)</sub>  
-          <br>&nbsp;&nbsp;<sub>韓国陸軍 専門下士官（組織運営・責任感）</sub>
-        </li>
+        <br>
+        <li>
+          <b>👑 2025 President of CSE Student Council</b>
+          <br>&nbsp;&nbsp;<sub>2025 창원대 컴퓨터공학과 학생회장 (리더십, 조직 운영)</sub>
+        </li>
+        <li>
+          <b>🌏 International Student Council</b>
+          <br>&nbsp;&nbsp;<sub>국제학생회 활동 (글로벌 소통 및 기획)</sub>
+        </li>
+        <li>
+          <b>🎖️ R.O.K. Army (Professional NCO)</b>
+          <br>&nbsp;&nbsp;<sub>육군 전문하사 복무 (책임감, 팀워크) (2023~2024)</sub>
+        </li>
       </ul>
     </td>
   </tr>
@@ -66,8 +59,6 @@
 | **📑 Monthly Tech Paper Deep Dive**<br>[GitHub](https://github.com/yeonje14/Monthly-Tech-Paper-Deep-Dive) | <b>KR</b>: 기술 논문 월간 분석<br><b>EN</b>: Monthly deep dive into tech papers<br><b>JP</b>: 技術論文の月次ディープダイブ |
 
 <br><br>
-<br>
-<br>
 
 <h3>🧪 Side Projects</h3>
 
@@ -91,7 +82,7 @@
       <a href="https://yeonje14.github.io/GenZ-Seoul-Tokyo-Trend-Map/">Demo</a>
     </td>
   </tr>
-  <tr>
+  <tr>
     <td><b>🛡️ TRINITY</b><br><sub>The 3-Axis Deepfake Detective</sub></td>
     <td>
       <sub>
@@ -100,8 +91,10 @@
         JP: M4 Mac(MPS)基盤の3軸アンサンブル(物理/生体/パターン)ディープフェイク検知およびカカオトークチャットボット
       </sub>
     </td>
-    <td align="center">
+    <td align="center"> 
       <a href="https://github.com/yeonje14/TRINITY-The-3-Axis-Multi-modal-Deepfake-Detective">GitHub</a>
     </td>
   </tr>
 </table>
+
+</div>
