@@ -171,4 +171,22 @@ JP: 3軸アンサンブルディープフェイク検知システム
 </td>
 </tr>
 
+<tr>
+<td>
+<b>🛡️ Earth-Live</b><br>
+<sub>The 3-Axis Deepfake Detective</sub>
+</td>
+<td>
+<sub>
+KR: 지도 기반 SNS<br>
+EN: SNS for map<br>
+JP: マップベースのsns
+</sub>
+</td>
+<td align="center">
+<a href="https://github.com/yeonje14/Earth-LIve">GitHub</a>
+</td>
+</tr>
+
+
 </table>
