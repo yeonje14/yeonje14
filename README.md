@@ -173,7 +173,7 @@ JP: 3軸アンサンブルディープフェイク検知システム
 
 <tr>
 <td>
-<b>🛡️ Earth-Live</b><br>
+<b>📍 Earth-Live</b><br>
 <sub>The 3-Axis Deepfake Detective</sub>
 </td>
 <td>
