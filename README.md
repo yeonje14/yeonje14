@@ -167,7 +167,7 @@ JP: 3軸アンサンブルディープフェイク検知システム
 </sub>
 </td>
 <td align="center">
-<a href="https://github.com/yeonje14/TRINITY-The-3-Axis-Multi-modal-Deepfake-Detective">GitHub</a>
+<a href="https://github.com/yeonje14/ai-">GitHub</a>
 </td>
 </tr>
 
